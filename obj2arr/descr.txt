@@ -1,0 +1,1 @@
+перевод трехмерной модели из model/*.obj в res/*.h - массив вершин (x,y,z,col), где x,y,z - float, col - uint16_t
